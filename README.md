@@ -1,10 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Salah&fontSize=80&fontAlignY=38&animation=twinkling&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I%27m%20Salah%20%F0%9F%91%8B&fontSize=60&fontAlignY=38&animation=twinkling&fontColor=fff" />
 </div>
 
 <div align="center">
-
-# Hi, I'm Salah 👋
 
 **Full Stack Software Engineer**
 
